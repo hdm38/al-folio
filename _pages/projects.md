@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: hdmmwebsite/projects/
 description: A growing collection of my academic/career-oriented projects.
 nav: true
 display_categories: [Cornell]
